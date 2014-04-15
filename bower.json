@@ -5,7 +5,7 @@
   "main": "primitiveUnserializers.js",
   "keywords": [
     "xml",
-    "xsd"
+    "xsd",
     "unserializer"
   ],
   "authors": [
