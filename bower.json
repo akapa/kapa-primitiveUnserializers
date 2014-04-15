@@ -1,0 +1,22 @@
+{
+  "name": "kapa/primitiveUnserializers",
+  "version": "0.0.1",
+  "description": "XML unserializer for basic XSD types",
+  "main": "primitiveUnserializers.js",
+  "keywords": [
+    "xml",
+    "xsd"
+    "unserializer"
+  ],
+  "authors": [
+    "Kapa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
